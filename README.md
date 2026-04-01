@@ -147,7 +147,7 @@ This project is based on:
 
 ## Author
 
-**Thiago Girao** - PhD candidate in Physics, researching quantum information and computation
+**Thiago Girao** - PhD candidate in Physics, researching quantum information and quantum computing.
 
 ---
 
